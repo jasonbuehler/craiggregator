@@ -6,6 +6,7 @@ Effort is in early stages. Contributions of all kinds are welcome.
 ## Installation
 
 To install via rubygems.org:
+
     gem install craiggregator
 
 ## Contributing
@@ -13,5 +14,6 @@ To install via rubygems.org:
 Contributions are always welcome! Please submit a pull request for any contributions you want to submit. 
 
 To run RSpec test, use
+
     rake
 
