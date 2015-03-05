@@ -13,7 +13,7 @@ To install via rubygems.org:
 
 Contributions are always welcome! Please submit a pull request for any contributions you want to submit. 
 
-To run RSpec test, use
+To run RSpec tests, use
 
     rake
 
