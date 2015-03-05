@@ -9,4 +9,6 @@ Gem::Specification.new do |s|
   s.files       = ["lib/craiggregator.rb"]
   s.homepage    = 'http://rubygems.org/gems/craiggregator'
   s.license     = 'MIT'
+  s.add_development_dependency 'rspec', '~> 3'
 end
+
