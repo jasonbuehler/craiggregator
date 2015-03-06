@@ -1,5 +1,5 @@
-class Craiggregator
-  def self.hi
-    puts "Hello world"
+module Craiggregator
+  class Base
+    
   end
 end
